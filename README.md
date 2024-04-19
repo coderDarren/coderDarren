@@ -3,9 +3,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coderDarren&theme=dark&hide_border=true&background=22272E)](https://git.io/streak-stats)
 
 <div>
-  <a href="https://github.com/coderDarren"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.linkedin.com/in/darrenoneale"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://youtube.com/@RenaissanceCoders"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://github.com/coderDarren"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.linkedin.com/in/darrenoneale"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://youtube.com/@RenaissanceCoders"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://open.spotify.com/album/4SUmFcYbCpr4jgExFKcZXC?si=t0EgoreYRL6xyGBfMEPLUw"><img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/></a>
 </div>
 
 ### 👍 Favorites
